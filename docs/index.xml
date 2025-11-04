@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEA42</title>
-    <link>http://www.sea42.com/</link>
+    <link>https://www.sea42.com/</link>
     <description>Recent content on SEA42</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Oct 2024 15:28:46 +0100</lastBuildDate>
-    <atom:link href="http://www.sea42.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sea42.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud Security Transformation - ISMS Modernization Initiative</title>
-      <link>http://www.sea42.com/projects/isms/</link>
+      <link>https://www.sea42.com/projects/isms/</link>
       <pubDate>Wed, 02 Oct 2024 15:28:46 +0100</pubDate>
-      <guid>http://www.sea42.com/projects/isms/</guid>
+      <guid>https://www.sea42.com/projects/isms/</guid>
       <description>&lt;h3 id=&#34;customer&#34;&gt;&#xA;  &lt;strong&gt;Customer:&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#customer&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Regulated Industry, German Insurance Company&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem-statement&#34;&gt;&#xA;  &lt;strong&gt;Problem Statement:&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#problem-statement&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The organization&amp;rsquo;s current Information Security Management System (ISMS) was designed for traditional on-premises infrastructure and lacks the necessary controls, frameworks, and architectural considerations to adequately address cloud-specific security risks. This gap creates potential vulnerabilities in data protection, compliance posture, and operational security as the organization transitions to cloud environments.&lt;/p&gt;</description>
     </item>
   </channel>
