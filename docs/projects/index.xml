@@ -6,8 +6,15 @@
     <description>Recent content in Projects on SEA42</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 15:28:46 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 15:00:46 +0100</lastBuildDate>
     <atom:link href="https://www.sea42.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Engineering Leadership</title>
+      <link>https://www.sea42.com/projects/ssdlc/</link>
+      <pubDate>Tue, 04 Nov 2025 15:00:46 +0100</pubDate>
+      <guid>https://www.sea42.com/projects/ssdlc/</guid>
+      <description>&lt;h3 id=&#34;customer&#34;&gt;&#xA;  &lt;strong&gt;Customer:&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#customer&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Consumer Industry, Germany&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem-statement&#34;&gt;&#xA;  &lt;strong&gt;Problem Statement:&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#problem-statement&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The organization lacked a standardized approach to embedding security throughout the software development process, resulting in vulnerabilities discovered late in the lifecycle, increased remediation costs, and inconsistent security practices across development teams. Security engineers required structured guidance and methodology to effectively identify and mitigate application-level threats proactively.&lt;/p&gt;&#xA;&lt;h3 id=&#34;approach&#34;&gt;&#xA;  &lt;strong&gt;Approach:&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#approach&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Established comprehensive SSDLC methodology with integrated threat modeling processes. Provided technical leadership and guidance to security and engineering team to embed security controls throughout the development lifecycle.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cloud Security Transformation - ISMS Modernization Initiative</title>
       <link>https://www.sea42.com/projects/isms/</link>
